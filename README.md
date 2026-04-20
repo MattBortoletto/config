@@ -36,10 +36,8 @@ Add to orgs, and switch notifications to work email.
   ```
   touch ~/.hushlogin
   ```
-
-
-
-```
-microvac
-zork
-```
+- Names
+  ```
+  microvac
+  zork
+  ```
