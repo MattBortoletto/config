@@ -25,16 +25,19 @@ Add to orgs, and switch notifications to work email.
 ## Misc
 
 - Setup fzf:
-
   ```
   $(brew --prefix)/opt/fzf/install
   ```
-
 - Hold keys to have them repeat in VSCode: 
-
   ```
   defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
   ```
+- Remove last login print from terminal
+  ```
+  touch ~/.hushlogin
+  ```
+
+
 
 ```
 microvac
