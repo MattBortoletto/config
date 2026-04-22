@@ -10,6 +10,7 @@ brew install --cask rectangle
 brew install --cask visual-studio-code
 brew install --cask kitty
 brew install --cask wezterm
+brew install --cask ghostty
 ```
 
 ## GitHub
