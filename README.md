@@ -26,6 +26,7 @@ Add to orgs, and switch notifications to work email.
 
 ## Misc
 
+- [VSCode theme](https://github.com/Mofiqul/vscode.nvim)
 - Setup fzf:
   ```
   $(brew --prefix)/opt/fzf/install
