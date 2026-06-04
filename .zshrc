@@ -1,3 +1,5 @@
+autoload -U select-word-style
+select-word-style bash
 bindkey "^[f" forward-word
 bindkey "^[b" backward-word
 
