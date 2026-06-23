@@ -7,6 +7,7 @@ brew install tmux
 brew install wget
 brew install fzf
 brew install ripgrep
+brew install starship
 brew install --cask rectangle
 brew install --cask kitty
 brew install --cask wezterm
