@@ -19,14 +19,15 @@ brew install --cask ghostty
 Generate SSH keys and add to GitHub:
 
 ```
-ssh-keygen -t rsa -b 4096 -C "email"
+ssh-keygen -t rsa -b 4096 -C "<EMAIL>"
 ```
 
 Add to orgs, and switch notifications to work email.
 
 ## Misc
 
-- [VSCode theme](https://github.com/Mofiqul/vscode.nvim)
+- Dark theme: https://github.com/bluz71/vim-moonfly-colors
+- Light theme: https://github.com/ribru17/bamboo.nvim
 - Setup fzf:
   ```
   $(brew --prefix)/opt/fzf/install
