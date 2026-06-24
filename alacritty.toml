@@ -1,0 +1,15 @@
+[font]
+normal = { family = "D2CodingLigature Nerd Font", style = "Regular" }
+bold = { family = "D2CodingLigature Nerd Font", style = "Bold" }
+italic = { family = "D2CodingLigature Nerd Font", style = "Italic" }
+size = 14
+
+[env]
+TERM = "xterm-256color"
+
+[keyboard]
+bindings = [
+  { key = "Left",  mods = "Alt", chars = "\u001bb" },
+  { key = "Right", mods = "Alt", chars = "\u001bf" },
+  { key = "Return", mods = "Shift", chars = "\u001b\r" }
+]
