@@ -13,3 +13,6 @@ bindings = [
   { key = "Right", mods = "Alt", chars = "\u001bf" },
   { key = "Return", mods = "Shift", chars = "\u001b\r" }
 ]
+
+[scrolling]
+history = 50000
